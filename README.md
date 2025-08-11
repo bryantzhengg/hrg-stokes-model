@@ -2,6 +2,8 @@
 
 this project builds a small convolutional neural network (cnn) in pytorch to predict microfluidic flow patterns. trains a model to predict the flow given the channel shape and inlet.
 
+(no real lab data included in this repo)
+
 ## how it works
 
 1. **model definition (`model.py`)**  
