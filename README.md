@@ -26,3 +26,11 @@ this project builds a small convolutional neural network (cnn) in pytorch to pre
 - pytorch  
 - numpy  
 - matplotlib  
+
+## visualized results
+
+**ground truth (quiver)**
+![ground truth quiver](gt_quiver.png)
+
+**predicted (quiver)**
+![predicted quiver](pred_quiver.png)
