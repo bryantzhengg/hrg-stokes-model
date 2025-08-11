@@ -1,6 +1,6 @@
-# microfluidic flow model with pytorch
+# semi-viscous microfluidic flow model with pytorch
 
-this project builds a small convolutional neural network (cnn) in pytorch to predict microfluidic flow patterns. trains a model to predict the flow given the channel shape and inlet.
+this project builds a small convolutional neural network (cnn) in pytorch to predict microfluidic flow patterns for a slightly viscous fluid. trains a model to predict the flow given the channel shape and inlet.
 
 (only model/training/simulated viz included; no real lab data)
 
